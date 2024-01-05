@@ -9,6 +9,6 @@ Associates
 Merc
 
 ### Projects
-Project 1: Excel
-Project 2:
+- Project 1: Excel
+- Project 2:
 
