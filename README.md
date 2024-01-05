@@ -8,7 +8,7 @@ Associates
 ### Work Exp
 Merc
 
-###Projects
+### Projects
 Project 1: Excel
 Project 2:
 
