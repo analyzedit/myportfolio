@@ -1,11 +1,11 @@
 # myportfolio
 #Data Scientist
 
-###Education
+### Education
 Bachelors
 Associates
 
-###Work Exp
+### Work Exp
 Merc
 
 ###Projects
